@@ -11,6 +11,6 @@ mystery :: String -> String
 mystery s =
     let indexed = withIndex s
         f acc (n, c) =
-            acc ++ if even n then map toUpper [c] else [c]
+            acc ++ map (if even n then toUpper else id) [c]
     in foldl f "" indexed
 ```
