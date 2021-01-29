@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I'm currently a Master of Science student at UBC, studying how we can build tools that empower developers to build software systems that are easier to reason about and safer to deploy. Before that, I worked at [@hootsuite](https://hootsuite.com/) where I had way too much fun writing Scala and earning an actual living wage in Vancouver.
 
 Writing code is an extremely creative endeavour for me, I feel that I'm able to express myself in ways that I would struggle to in other mediums. My current interests are
