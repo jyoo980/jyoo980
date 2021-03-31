@@ -3,7 +3,6 @@ I'm currently a Master of Science student at UBC, studying how we can build tool
 Writing code is an extremely creative endeavour for me, I feel that I'm able to express myself in ways that I would struggle to in other mediums. My current interests are
 * Software + programming language design 💻
 * Cycling 🚲
-* Computer science education 🎓 
 * Craft beer 🍺
 
 I strongly believe in giving back to the greater community, especially via mentorship. I wouldn't have gotten where I am today without the support of countless people who've helped me along the way. If you're interested in chatting about any of the topics I've listed above, feel free to DM me on [Twitter](https://twitter.com/yoo_hoo_yoo).
