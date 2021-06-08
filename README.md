@@ -1,4 +1,7 @@
-I'm currently a Master of Science student at UBC, studying how we can build tools that empower developers to build software systems that are easier to reason about and safer to deploy. Before that, I worked at [@hootsuite](https://hootsuite.com/) where I had way too much fun writing Scala and earning an actual living wage in Vancouver.
+I am currently working toward a Masters degree in Computer Science at [@ubc](https://www.ubc.ca).
+This summer, I'm working as a software developer intern with the Data Managment Organization at 
+[@twitter](https://github.com/twitter), endeavouring to make data at Twitter usable, discoverable, and compliant.
+Before that, I was a software developer intern at [@hootsuite](https://www.hootsuite.com/).
 
 Writing code is an extremely creative endeavour for me, I feel that I'm able to express myself in ways that I would struggle to in other mediums. My current interests are
 * Software + programming language design 💻
