@@ -13,13 +13,13 @@ If you can tell me what the code below evaluates to, chances are we're gonna get
             (for/list ([c s]
                        [i (build-list (string-length s) add1)])
               `(,i ,(string c))))
-          (define (upcase-odds lop)
+          (define (upcase-evens lop)
             (for/list ([p lop])
               (match p
-                [`(,i ,c) (if (odd? i)
+                [`(,i ,c) (if (not (odd? i))
                               (string-upcase c)
                               c)])))]
-    (apply string-append ((compose upcase-odds zip) s))))
+    (apply string-append ((compose upcase-evens zip) s))))
 
 
 (sbc "hello, world")
