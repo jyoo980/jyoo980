@@ -1,11 +1,11 @@
 I am currently working toward a Master's degree in Computer Science at [@ubc](https://www.ubc.ca).
 Most recently, I worked as a software developer intern with the Privacy and Data Protection Engineering team at 
-[@twitter](https://github.com/twitter), endeavouring to make data at Twitter usable, discoverable, and compliant.
-Before that, I was a software developer intern at [@hootsuite](https://www.hootsuite.com/).
+[@twitter](https://github.com/twitter). Before that, I was a software developer intern at
+[@hootsuite](https://www.hootsuite.com/). For experience before that, check out my LinkedIn.
 
 If you can tell me what the code below evaluates to, chances are we're gonna get along great
 
-```racket
+```rkt
 #lang racket
 
 (define (sbc s)
