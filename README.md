@@ -1,7 +1,10 @@
-I am currently working toward a Master's degree in Computer Science at [@ubc](https://www.ubc.ca).
-Most recently, I worked as a software developer intern with the Privacy and Data Protection Engineering team at 
-[@twitter](https://github.com/twitter). Before that, I was a software developer intern at
-[@hootsuite](https://www.hootsuite.com/). For experience before that, check out my LinkedIn.
+If you're looking for developers who care deeply about software tooling, developer productivity,
+and helping solve hard problems that developers encounter, please get in touch.
+
+I was a software engineer at [@twitter](https://github.com/twitter), working on the Privacy 
+Tooling and Infrastructure team.
+Before that, I earned my Master's degree in Computer Science at [@ubc](https://www.ubc.ca),
+where my thesis investigated how [developers investigate data-flow reachability questions](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0421073?o=0).
 
 If you can tell me what the code below evaluates to, chances are we're gonna get along great
 
