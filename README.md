@@ -1,12 +1,17 @@
-If you're looking for developers who care deeply about software tooling, developer productivity,
-and helping solve hard problems that developers encounter, please get in touch.
+I am a PhD student at the University of Washington, where I work with the
+Programming Languages and Software Engineering (PLSE) group.
+Click [here](https://uwplse.org) for more info.
 
-I was a software engineer at [@twitter](https://github.com/twitter), working on the Privacy 
-Tooling and Infrastructure team.
-Before that, I earned my Master's degree in Computer Science at [@ubc](https://www.ubc.ca),
-where my thesis investigated how [developers investigate data-flow reachability questions](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0421073?o=0).
+Software tooling and programmer productivity are my main interests.
+I enjoy tackling problems that programmers face _in practice_ in their
+day-to-day work. To that end, I've gotten my feet wet in industry, ranging from
+small startups with 4 backend developers, to behemoths like
+[@twitter](https://github.com/twitter).
 
-If you can tell me what the code below evaluates to, chances are we're gonna get along great
+Before all that, I earned my Master's degree in Computer Science at
+[@ubc](https://www.ubc.ca), where my thesis investigated how
+[developers investigate data-flow reachability questions](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0421073?o=0).
+
 
 ```rkt
 #lang racket
