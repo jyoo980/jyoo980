@@ -1,4 +1,5 @@
-I am a PhD student at the University of Washington, where I work with the
+I am a PhD student in the Paul G. Allen School of Computer Science &
+Engineering at the University of Washington, where I work with the
 Programming Languages and Software Engineering (PLSE) group.
 Click [here](https://uwplse.org) for more info.
 
