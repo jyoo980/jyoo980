@@ -11,7 +11,7 @@ small startups with 4 backend developers, to behemoths like
 [@twitter](https://github.com/twitter).
 
 Before all that, I earned my Master's degree in Computer Science at
-[@ubc](https://www.ubc.ca), where my thesis investigated how
+[@ubc](https://www.ubc.ca), where my thesis explored how
 [developers investigate data-flow reachability questions](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0421073?o=0).
 
 
