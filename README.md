@@ -32,5 +32,5 @@ Before all that, I earned my Master's degree in Computer Science at
     (apply string-append ((compose upcase-evens zip) s))))
 
 
-(sbc "hello, world")
+(sbc "hello, world!")
 ```
