@@ -4,8 +4,10 @@ Programming Languages and Software Engineering (PLSE) group.
 Click [here](https://uwplse.org) for more info.
 
 Software tooling and programmer productivity are my main interests.
-I enjoy tackling problems that programmers face _in practice_ in their
-day-to-day work. To that end, I've gotten my feet wet in industry, ranging from
+I find it most rewarding to work on problems that programmers actually
+face in _in practice_; solutions to which will prevent incorrect code
+from ever being written and deployed in the first place.
+I've gotten my feet wet in industry, ranging from
 small startups with 4 backend developers, to behemoths like
 [@twitter](https://github.com/twitter).
 
