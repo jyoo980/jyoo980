@@ -1,7 +1,8 @@
 I am a PhD student in the Paul G. Allen School of Computer Science &
 Engineering at the University of Washington, where I work with the
 Programming Languages and Software Engineering (PLSE) group.
-Click [here](https://uwplse.org) for more info.
+Click [here](https://uwplse.org) for more info. I do research in AI
+(abstract interpretation).
 
 Software tooling and programmer productivity are my main interests.
 I find it most rewarding to work on problems that programmers actually
