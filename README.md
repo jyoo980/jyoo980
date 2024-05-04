@@ -6,7 +6,7 @@ Click [here](https://uwplse.org) for more info. I do research in AI
 
 Software tooling and programmer productivity are my main interests.
 I find it most rewarding to work on problems that programmers actually
-face in _in practice_; solutions to which will prevent incorrect code
+face _in practice_; solutions to which will prevent incorrect code
 from ever being written and deployed in the first place.
 I've gotten my feet wet in industry, ranging from
 small startups with 4 backend developers, to behemoths like
