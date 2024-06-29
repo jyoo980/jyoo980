@@ -15,7 +15,8 @@ small startups with 4 backend developers, to behemoths like
 
 Before all that, I earned my Master's degree in Computer Science at
 [@ubc](https://www.ubc.ca), where my thesis investigated how
-[developers investigate data-flow reachability questions](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0421073?o=0).
+[developers investigate data-flow reachability questions](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0421073?o=0),
+working on user interfaces and IDEs was fun!
 
 
 ```rkt
