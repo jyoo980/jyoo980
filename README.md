@@ -3,7 +3,6 @@ Engineering at the University of Washington, where I work with the
 Programming Languages and Software Engineering (PLSE) group.
 Click [here](https://uwplse.org) for more info. I do research in AI
 (abstract interpretation).
-I am currently an intern with the AWS Privacy & Security Automation Group.
 
 Software tooling and programmer productivity are my main interests.
 I find it most rewarding to work on problems that programmers actually
@@ -11,7 +10,7 @@ face _in practice_; solutions to which will prevent incorrect code
 from ever being written and deployed in the first place.
 I've gotten my feet wet in industry,
 Most recently as an [applied science](https://www.amazon.science) intern with
-AWS the Privacy & Security team.
+the AWS Privacy & Security Automation group.
 In the past, I've had the privilege to work at a variety of places,
 ranging from small startups with 4 backend developers, to behemoths like
 [@twitter](https://github.com/twitter).
