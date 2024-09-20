@@ -9,8 +9,11 @@ Software tooling and programmer productivity are my main interests.
 I find it most rewarding to work on problems that programmers actually
 face _in practice_; solutions to which will prevent incorrect code
 from ever being written and deployed in the first place.
-I've gotten my feet wet in industry, ranging from
-small startups with 4 backend developers, to behemoths like
+I've gotten my feet wet in industry,
+Most recently as an [applied science](https://www.amazon.science) intern with
+AWS the Privacy & Security team.
+In the past, I've had the privilege to work at a variety of places,
+ranging from small startups with 4 backend developers, to behemoths like
 [@twitter](https://github.com/twitter).
 
 Before all that, I earned my Master's degree in Computer Science at
