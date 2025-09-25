@@ -11,8 +11,11 @@ This takes me to a lot of exciting places,
   programming tools and prompt-based software engineering.
 Outside the ivory tower,
   I've gotten my feet wet in industry,
-  most recently as an [applied science](https://www.amazon.science) intern with
-  the [AWS Provable Security group](https://aws.amazon.com/security/provable-security/)
+  most recently as a research intern with the
+  the fantastic [RiSE (Research in Software Engineering)](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)
+  group at Microsoft Research,
+  and previously as an [applied science](https256//www.amazon.science) intern
+  with the [AWS Provable Security group](https://aws.amazon.com/security/provable-security/)
   (though back then, it was known as AWS Privacy & Security Automation).
 In the past,
   I've had the privilege to work at a variety of places,
